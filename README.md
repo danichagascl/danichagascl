@@ -16,7 +16,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## <h1>Onde me encontrar</h1>
-Onde me encontrar
 
- • 📧 Email: daniellechagascl@gmail.com
+ • 📧 Email: daniellechagascl@gmail.com;
  • 📷 Instagram: @danichaga.s
