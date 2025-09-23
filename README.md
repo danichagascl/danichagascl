@@ -1,6 +1,7 @@
 ## <h1>Olá, eu sou a Dani Chagas! 👋 </h1>
 
-🎓  Estudante do **2º ano técnico em informática**
+- 🎓 Estudante do **2º ano técnico em informática**
+- 👩‍💻 Sempre aprendendo algo novo em **programação, tecnologia e inovação**
  
 
 
@@ -15,7 +16,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## <h1>Onde me encontrar</h1>
+## <h1> 🌐 Onde me encontrar</h1>
 
  - ✉️ Email: daniellechagascl@gmail.com
  - 📷 Instagram: [@danichaga.s](https://instagram.com/danichaga.s)
+
+## 📊 Estatísticas do GitHub  
+
+![Danielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danichagascl&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danichagascl&layout=compact&theme=radical)
