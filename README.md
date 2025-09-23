@@ -1,7 +1,7 @@
 ## <h1>Olá, eu sou a Dani Chagas! 👋 </h1>
 
 - 🎓 Estudante do **2º ano técnico em informática**
-- 👩‍💻 Sempre aprendendo algo novo em **programação, tecnologia e inovação**
+- 💻 Sempre aprendendo algo novo em **programação, tecnologia e inovação**
  
 
 
