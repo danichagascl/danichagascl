@@ -6,7 +6,7 @@
 
 
 ---
-## <h1> Tecnologias que utilizo </h1> 
+## <h2> Tecnologias que utilizo </h2> 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## <h1> Onde me encontrar</h1>
+## <h2> Onde me encontrar</h2>
 
  - ✉️ Email: daniellechagascl@gmail.com
  - 📷 Instagram: [@danichaga.s](https://instagram.com/danichaga.s)
