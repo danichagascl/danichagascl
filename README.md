@@ -1,12 +1,11 @@
- Olá, eu sou a Dani Chagas!  👋
+## <h1>Olá, eu sou a Dani Chagas! 👋 </h1>
 
-🎓  Estudante do 2º ano técnico em informática
+🎓  Estudante do **2º ano técnico em informática**
  
 
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas  
+## <h1> 🔧 Tecnologias que utilizo </h1> 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,3 +14,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## <h1>Onde me encontrar</h1>
+Onde me encontrar
+
+ • 📧 Email: daniellechagascl@gmail.com
+ • 📷 Instagram: @danichaga.s
