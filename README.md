@@ -1,4 +1,4 @@
- Olá, eu sou a Dan Chagas!  👋
+ Olá, eu sou a Dani Chagas!  👋
 
 🎓  Estudante do 2º ano técnico em informática
  
