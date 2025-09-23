@@ -17,5 +17,5 @@
 
 ## <h1>Onde me encontrar</h1>
 
- • 📧 Email: daniellechagascl@gmail.com
- • 📷 Instagram: @danichaga.s
+ -✉️ Email: daniellechagascl@gmail.com
+ -📷 Instagram: [@danichaga.s](https://instagram.com/danichaga.s)
