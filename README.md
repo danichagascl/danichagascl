@@ -21,8 +21,7 @@
  - ✉️ Email: daniellechagascl@gmail.com
  - 📷 Instagram: [@danichaga.s](https://instagram.com/danichaga.s)
 
-## 📊 Estatísticas do GitHub  
-
+## Minhas estatísticas
 ![Danielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danichagascl&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danichagascl&layout=compact&theme=radical)
